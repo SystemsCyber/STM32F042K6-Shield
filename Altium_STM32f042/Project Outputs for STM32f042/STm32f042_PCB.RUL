@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\ganna\OneDrive\Documents\CSU\SystemsCyber\STM32F042\Altium_STM32f042\STm32f042_PCB.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Width_PWM|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_all|Scope=Board|Minimum=20.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

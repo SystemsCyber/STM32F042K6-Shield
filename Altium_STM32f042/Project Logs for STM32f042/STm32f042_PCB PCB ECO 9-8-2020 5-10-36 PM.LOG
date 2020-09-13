@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=NetR?_2 Pin=R?-2
+Removed Pin From Net: NetName=NetR?_2 Pin=U?-5
+Removed Member From Class: ClassName=STM32f042_schematic Member=*
+Removed Member From Class: ClassName=STM32f042_schematic Member=P?
+Added Component: Designator=S?(Arduino nano)
+Added Component: Designator=U?(DIP16)
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=S?-24
+Added Pin To Net: NetName=GND Pin=S?-28
+Added Pin To Net: NetName=NetR?_2 Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=NetS?_4 Pin=S?-4
+Added Pin To Net: NetName=NetS?_4 Pin=T?-1
+Added Net: Name=NetS?_4
+Added Pin To Net: NetName=NetS?_5 Pin=S?-5
+Added Pin To Net: NetName=NetS?_5 Pin=U?-6
+Added Net: Name=NetS?_5
+Added Pin To Net: NetName=NetS?_7 Pin=S?-7
+Added Pin To Net: NetName=NetS?_7 Pin=U?-5
+Added Net: Name=NetS?_7
+Added Pin To Net: NetName=NetS?_8 Pin=S?-8
+Added Pin To Net: NetName=NetS?_8 Pin=U?-4
+Added Net: Name=NetS?_8
+Added Pin To Net: NetName=NetS?_11 Pin=S?-11
+Added Pin To Net: NetName=NetS?_11 Pin=U?-1
+Added Net: Name=NetS?_11
+Added Pin To Net: NetName=NetS?_12 Pin=S?-12
+Added Pin To Net: NetName=NetS?_12 Pin=T?-4
+Added Net: Name=NetS?_12
+Added Pin To Net: NetName=NetS?_13 Pin=S?-13
+Added Pin To Net: NetName=NetS?_13 Pin=U?-3
+Added Net: Name=NetS?_13
+Added Pin To Net: NetName=NetS?_22 Pin=S?-22
+Added Pin To Net: NetName=NetS?_22 Pin=T?-8
+Added Net: Name=NetS?_22
+Added Pin To Net: NetName=NetS?_29 Pin=S?-29
+Added Pin To Net: NetName=NetS?_29 Pin=U?-9
+Added Net: Name=NetS?_29
+Added Pin To Net: NetName=NetU?_2 Pin=U?-2
+Added Net: Name=NetU?_2
+Added Pin To Net: NetName=NetU?_7 Pin=U?-7
+Added Net: Name=NetU?_7
+Added Pin To Net: NetName=NetU?_10 Pin=U?-10
+Added Net: Name=NetU?_10
+Added Pin To Net: NetName=NetU?_11 Pin=U?-11
+Added Net: Name=NetU?_11
+Added Pin To Net: NetName=NetU?_12 Pin=U?-12
+Added Net: Name=NetU?_12
+Added Pin To Net: NetName=NetU?_13 Pin=U?-13
+Added Net: Name=NetU?_13
+Added Pin To Net: NetName=NetU?_14 Pin=U?-14
+Added Net: Name=NetU?_14
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Net: Name=NetU?_15
+Added Pin To Net: NetName=NetU?_16 Pin=U?-16
+Added Net: Name=NetU?_16
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R? 4.7k
+Added Member To Class: ClassName=STM32f042_schematic Member=Component S? ArduinoNano
+Added Member To Class: ClassName=STM32f042_schematic Member=Component U? UQL2003AN
+Added Member To Class: ClassName=STM32f042_schematic Member=Component U? ATECC608A

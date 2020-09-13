@@ -1,0 +1,39 @@
+Added Component: Designator=J1(5 POS MINI-FIT JR R/A Header)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "39-30-3055"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM18448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J2(DB15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "D15S33E4GX00LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-1499-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-16
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-15
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-14
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=U1-13
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=S1-29
+Added Pin To Net: NetName=NetJ1_5 Pin=U1-9
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-7
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_12 Pin=J2-12
+Added Pin To Net: NetName=NetJ2_12 Pin=T1-6
+Added Net: Name=NetJ2_12
+Added Pin To Net: NetName=NetJ2_13 Pin=J2-13
+Added Pin To Net: NetName=NetJ2_13 Pin=T1-7
+Added Net: Name=NetJ2_13
+Added Pin To Net: NetName=RAW Pin=J2-8
+Added Net: Name=RAW
+Added Member To Class: ClassName=STM32f042_schematic Member=Component J1 Molex 39-30-3056
+Added Member To Class: ClassName=STM32f042_schematic Member=Component J2 Vehicle Interface

@@ -1,0 +1,4 @@
+Change Component Comment : Designator=S1 Old Comment=STM32F042K6 New Comment=ArduinoNano
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C4 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component D2 STPS2150
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R7 470

@@ -1,0 +1,6 @@
+Added Component: Designator=*(Arduino nano)
+Added Member To Class: ClassName=STM32f042_schematic Member=Component * arduinoNano
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C? 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component P? Header 15
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R? 4.7k

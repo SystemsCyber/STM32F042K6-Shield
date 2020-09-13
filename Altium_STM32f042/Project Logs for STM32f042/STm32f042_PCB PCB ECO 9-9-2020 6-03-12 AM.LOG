@@ -1,0 +1,132 @@
+Added Component: Designator=C1(CAPR5-4X5)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FA28X7R1H104KNU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175529-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPR5-4X5)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FA28X7R1H104KNU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175529-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPR5-4X5)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FA28X7R1H104KNU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175529-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1(AXIAL-0.4)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CF14JT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT4K70CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R2(AXIAL-0.4)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CF14JT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT4K70CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=S1(Arduino nano)
+Added Component: Designator=T1(DIP-8)
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MCP2562-E/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP2562-E/P-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U1(DIP16)
+Added Component: Designator=U2(SOIC-8)
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ATECC608A-SSHDA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATECC608A-SSHDA-TCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=3V3 Pin=C3-2
+Added Pin To Net: NetName=3V3 Pin=R1-1
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=3V3 Pin=S1-16
+Added Pin To Net: NetName=+5 Pin=S1-26
+Added Pin To Net: NetName=GND Pin=S1-28
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=+5 Pin=T1-3
+Added Pin To Net: NetName=3V3 Pin=T1-5
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=3V3 Pin=U2-8
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=S1-7
+Added Pin To Net: NetName=NetR1_2 Pin=U2-5
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=S1-6
+Added Pin To Net: NetName=NetR2_2 Pin=U2-6
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetS1_4 Pin=S1-4
+Added Pin To Net: NetName=NetS1_4 Pin=T1-1
+Added Net: Name=NetS1_4
+Added Pin To Net: NetName=NetS1_5 Pin=S1-5
+Added Pin To Net: NetName=NetS1_5 Pin=U1-6
+Added Net: Name=NetS1_5
+Added Pin To Net: NetName=NetS1_8 Pin=S1-8
+Added Pin To Net: NetName=NetS1_8 Pin=T1-8
+Added Net: Name=NetS1_8
+Added Pin To Net: NetName=NetS1_12 Pin=S1-12
+Added Pin To Net: NetName=NetS1_12 Pin=T1-4
+Added Net: Name=NetS1_12
+Added Pin To Net: NetName=NetS1_18 Pin=S1-18
+Added Pin To Net: NetName=NetS1_18 Pin=U1-1
+Added Net: Name=NetS1_18
+Added Pin To Net: NetName=NetS1_19 Pin=S1-19
+Added Pin To Net: NetName=NetS1_19 Pin=U1-2
+Added Net: Name=NetS1_19
+Added Pin To Net: NetName=NetS1_20 Pin=S1-20
+Added Pin To Net: NetName=NetS1_20 Pin=U1-3
+Added Net: Name=NetS1_20
+Added Pin To Net: NetName=NetS1_21 Pin=S1-21
+Added Pin To Net: NetName=NetS1_21 Pin=U1-4
+Added Net: Name=NetS1_21
+Added Pin To Net: NetName=NetS1_23 Pin=S1-23
+Added Pin To Net: NetName=NetS1_23 Pin=U1-7
+Added Net: Name=NetS1_23
+Added Pin To Net: NetName=NetS1_24 Pin=S1-24
+Added Pin To Net: NetName=NetS1_24 Pin=U1-5
+Added Net: Name=NetS1_24
+Added Pin To Net: NetName=NetS1_29 Pin=S1-29
+Added Net: Name=NetS1_29
+Added Pin To Net: NetName=NetT1_6 Pin=T1-6
+Added Net: Name=NetT1_6
+Added Pin To Net: NetName=NetT1_7 Pin=T1-7
+Added Net: Name=NetT1_7
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Added Pin To Net: NetName=NetU1_11 Pin=U1-11
+Added Net: Name=NetU1_11
+Added Pin To Net: NetName=NetU1_12 Pin=U1-12
+Added Net: Name=NetU1_12
+Added Pin To Net: NetName=NetU1_13 Pin=U1-13
+Added Net: Name=NetU1_13
+Added Pin To Net: NetName=NetU1_14 Pin=U1-14
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=NetU1_15 Pin=U1-15
+Added Net: Name=NetU1_15
+Added Pin To Net: NetName=NetU1_16 Pin=U1-16
+Added Net: Name=NetU1_16
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C1 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C2 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component C3 0.1uF
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R1 4.7k
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R2 4.7k
+Added Member To Class: ClassName=STM32f042_schematic Member=Component S1 ArduinoNano
+Added Member To Class: ClassName=STM32f042_schematic Member=Component T1 MCP2562
+Added Member To Class: ClassName=STM32f042_schematic Member=Component U1 UQL2003AN
+Added Member To Class: ClassName=STM32f042_schematic Member=Component U2 ATECC608A
+Added Room: Name=STM32f042_schematic

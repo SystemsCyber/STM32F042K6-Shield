@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PWM6 Pin=P1-5
+Removed Pin From Net: NetName=PWM7 Pin=P1-6
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 6 New DesignItemId=Header 7
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X6 New Footprint=HDR1X7
+Change Component Comment : Designator=P1 Old Comment=Header 6 New Comment=Header 7
+Change Component Description : Designator=P1 Old Description=Header, 6-Pin New Description=Header, 7-Pin
+Added Pin To Net: NetName=PWM5 Pin=P1-5
+Added Pin To Net: NetName=PWM6 Pin=P1-6
+Added Pin To Net: NetName=PWM7 Pin=P1-7

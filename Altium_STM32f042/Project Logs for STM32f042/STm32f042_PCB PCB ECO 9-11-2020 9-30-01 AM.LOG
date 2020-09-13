@@ -1,0 +1,19 @@
+Added Component: Designator=S1(Arduino nano)
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=NetP2_1 Pin=S1-4
+Added Pin To Net: NetName=NetR5_1 Pin=S1-5
+Added Pin To Net: NetName=NetP4_1 Pin=S1-6
+Added Pin To Net: NetName=NetP4_2 Pin=S1-7
+Added Pin To Net: NetName=NetR3_1 Pin=S1-8
+Added Pin To Net: NetName=NetP2_2 Pin=S1-12
+Added Pin To Net: NetName=3V3 Pin=S1-16
+Added Pin To Net: NetName=NetP1_1 Pin=S1-18
+Added Pin To Net: NetName=NetP1_2 Pin=S1-19
+Added Pin To Net: NetName=NetP1_3 Pin=S1-20
+Added Pin To Net: NetName=NetP1_4 Pin=S1-21
+Added Pin To Net: NetName=NetR4_1 Pin=S1-23
+Added Pin To Net: NetName=NetS1_24 Pin=S1-24
+Added Pin To Net: NetName=+5 Pin=S1-26
+Added Pin To Net: NetName=GND Pin=S1-28
+Added Pin To Net: NetName=NetJ1_1 Pin=S1-29
+Added Member To Class: ClassName=STM32f042_schematic Member=Component S1 ArduinoNano

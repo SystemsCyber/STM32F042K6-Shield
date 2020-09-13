@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NetJ1_1 Pin=C6-1
+Added Pin To Net: NetName=NetJ1_1 Pin=C7-2
+Added Pin To Net: NetName=RAW Pin=J2-8
+Added Pin To Net: NetName=NetJ1_1 Pin=U3-3
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetC6_1
+Added Room: Name=STM32f042_schematic

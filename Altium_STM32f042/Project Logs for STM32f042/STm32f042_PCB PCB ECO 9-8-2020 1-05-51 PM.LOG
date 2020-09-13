@@ -1,0 +1,77 @@
+Added Component: Designator=C?(CAPR5-4X5)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FA28X7R1H104KNU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175529-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPR5-4X5)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FA28X7R1H104KNU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175529-ND"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPR5-4X5)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "FA28X7R1H104KNU00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "445-175529-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X15_CEN)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.4)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CF14JT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT4K70CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.4)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CF14JT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT4K70CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=T?(DIP-8)
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "MCP2562-E/P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MCP2562-E/P-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC-8)
+Add component (AddParameter): Name = "Alternative"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ATECC608A-SSHDA-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATECC608A-SSHDA-TCT-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=T?-3
+Added Net: Name=+5
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=C?-2
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=R?-1
+Added Pin To Net: NetName=3V3 Pin=T?-5
+Added Pin To Net: NetName=3V3 Pin=U?-8
+Added Net: Name=3V3
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=T?-2
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U?-5
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetT?_1 Pin=T?-1
+Added Net: Name=NetT?_1
+Added Pin To Net: NetName=NetT?_4 Pin=T?-4
+Added Net: Name=NetT?_4
+Added Pin To Net: NetName=NetT?_6 Pin=T?-6
+Added Net: Name=NetT?_6
+Added Pin To Net: NetName=NetT?_7 Pin=T?-7
+Added Net: Name=NetT?_7
+Added Pin To Net: NetName=NetT?_8 Pin=T?-8
+Added Net: Name=NetT?_8
+Added Class: Name=STM32f042_schematic
+Added Room: Name=STM32f042_schematic

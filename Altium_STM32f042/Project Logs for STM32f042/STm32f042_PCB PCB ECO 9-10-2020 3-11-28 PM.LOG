@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetJ2_9 Pin=S1-5
+Removed Pin From Net: NetName=NetJ2_1 Pin=S1-23
+Added Component: Designator=R3(AXIAL-0.4)
+Add component (AddParameter): Name = "Alternative"; Value = "Acceptable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CF14JT4K70"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "CF14JT4K70CT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Axial-0.4)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CFR-25JB-52-4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4.7KQBK-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Axial-0.4)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CFR-25JB-52-4K7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4.7KQBK-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=S1-8
+Added Pin To Net: NetName=NetR3_1 Pin=T1-8
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=S1-23
+Added Pin To Net: NetName=NetR4_1 Pin=U1-10
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=S1-5
+Added Pin To Net: NetName=NetR5_1 Pin=U1-11
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R3 4.7k
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R4 4.7k
+Added Member To Class: ClassName=STM32f042_schematic Member=Component R5 4.7k

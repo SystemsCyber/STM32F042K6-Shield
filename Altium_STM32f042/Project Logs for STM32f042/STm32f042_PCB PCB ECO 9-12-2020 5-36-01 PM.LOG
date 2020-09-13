@@ -1,0 +1,8 @@
+Added Component: Designator=L1(AXIAL-0.9)
+Add component (AddParameter): Name = "Manufacturer"; Value = "TDK Electronics Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "B82134A5701M000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "495-76036-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RAW Pin=L1-1
+Added Pin To Net: NetName=NetD2_1 Pin=L1-2
+Added Member To Class: ClassName=STM32f042_schematic Member=Component L1 Inductor B82134
